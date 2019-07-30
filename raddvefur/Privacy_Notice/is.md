@@ -29,7 +29,7 @@ Almannarómur vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 - búa til íslenska málheild sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
 
-Þegar þú notar heimasíðuna okkar [www.almannaromur.is](http://www.almannaromur.is) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafraökum (e. cookies) (linkur á cookie policy)
+Þegar þú notar heimasíðuna okkar [www.almannaromur.is](http://www.almannaromur.is) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [Vafrakökustefna](https://www.aime.moon.do/is/vafrakokustefna).
 
 ## Lagalegur grundvöllur fyrir vinnslu
 
