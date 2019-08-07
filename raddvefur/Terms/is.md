@@ -15,14 +15,11 @@ Með því að skrá inn lýðfræðilega upplýsingar um þig staðfestir þú 
 ## 3. Samskipti
 Ef þú skráir þig á póstlista mun Almannarómur einstaka sinnum senda þér póst um framgang, vörður og annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
 
-## 4. Vafrakökur (e.cookies)
-Vefsíðan okkar inniheldur vafrakökur. Kökur eru nokkurs konar fótspor sem eru dulkóðaðir textastrengir sem vefsíða geymir á tölvu notandans. Kökur gerir okkur kleift að lágmarka líkur að þátttakendum verði boðið að yfirfara sín eigin hljóðbrot. Að auki eru kökur notaðar til að mæla notkun á ýmsum síðum innan heimasíðunnar en það hjálpar okkur að meta hvað þarf að bæta á síðunni. Þær gerðir af kökum sem við notum eru “lotukökur” (e.session cookies) og “viðvarandi kökur” (e.persistent cookies). Lotukökur eru tímabundnar og er sjálfkrafa eytt þegar þú yfirgefur vefsíðuna okkar. Viðvarandi kökur eru áfram í tölvunni þinn þar til þú eyðir þeim. Við notum ekki kökur til að safna upplýsingum er varða heimsóknir þínar á öðrum síðum, né að safna persónulegum upplýsingum um þig, aðrar en þær sem þú hefur skráð hjá okkur af frjálsum vilja í gegnum samskipti við okkur á heimasíðu okkar.
-
-## 5. Fyrirvari
+## 4. Fyrirvari
 Almannarómur ber ekki ábyrgð á hugsanlegu beinu eða óbeinu tjóni þátttakenda né þeirra aðila sem munu sækja málheildina og nýta hana í eigin tilgangi.
 Þú samþykkir að halda Almannaróm skaðlausum fyrir ábyrgð eða kröfu sem leiðir af þátttöku þinni í gerð málheildarinnar.
 
-## 6. Brot á skilmálum
+## 5. Brot á skilmálum
 Ef upp kemst um brot þátttakenda á þessum skilmálum áskilur Almannarómur sér rétt til þess að fjarlæga viðeigandi framlög úr málheildinni. Ef þú telur að á rétti þínum sé brotið innan Almannarómur.is biðjum við þig um að senda okkur póst á netfangið almannaromur@almannaromur.is
 Uppfærslur
 
