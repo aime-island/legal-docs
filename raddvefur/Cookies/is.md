@@ -10,8 +10,13 @@ Vefgeymsla vafra (e. web storage) gerir vefsvæðum kleift að geyma gögn í t�
 Án notkunnar á vafrakökum og vefgeymslu vafra gæti upplifun þín á síðunni versnað og vefsíðan ekki virkað eins og til var ætlast.
 
 ## 2. Tilgangur með notkun vafrakaka og vefgeymslu vafra.
-Vefsíðan notar vafrakökur til að mæla notkun á ýmsum undirsíðum innan vefsíðunnar, en það hjálpar okkur að meta hvað þarf að bæta, til þess notum við vafrakökur fyrir Google Analyctics. Með því getum við séð notkunarmynstur á síðunni yfir heildina í stað þess að sjá notkun einstaka notanda. Við notum upplýsingarnar til að greina umferð á vefsíðunni en ekki til að skoða persónugreinanlegar upplýsingar.
+Vefsíðan notar vafrakökur til að mæla notkun á ýmsum undirsíðum innan vefsíðunnar, en það hjálpar okkur að meta hvað þarf að bæta, til þess notum við vafrakökur fyrir Google Analyctics (nafn: ga). Með því getum við séð notkunarmynstur á síðunni yfir heildina í stað þess að sjá notkun einstaka notanda. Við notum upplýsingarnar til að greina umferð á vefsíðunni en ekki til að skoða persónugreinanlegar upplýsingar.
 
-Vefsíðan notar vefgeymslu vafrans til að halda um upplýsingar sem bæta afköst síðunar og notendaupplifun. Þetta eru upplýsingar sem notandi hefur skráð inn, samþykki, einstakt notanda númer, fjöldi raddsýna sem notandi hefur gefið og fjöldi raddsýna sem notandi hefur hlustað á. Með því að nota vefgeymslu vafrans á þennan hátt komum við í veg fyrir að notandi þurfi skrá inn sömu upplýsingarnar við hverja heimsókn, gefa sömu samþykki og til þess að lágmarka líkur á að notandi fái sama raddsýni oftar en einu sinni til hlustunar.
+Vefsíðan notar vefgeymslu vafrans til að halda um upplýsingar sem bæta afköst síðunar og notendaupplifun (nafn: user). Þetta eru upplýsingar sem notandi hefur skráð inn, samþykki, einstakt notanda númer, fjöldi raddsýna sem notandi hefur gefið og fjöldi raddsýna sem notandi hefur hlustað á. Með því að nota vefgeymslu vafrans á þennan hátt komum við í veg fyrir að notandi þurfi skrá inn sömu upplýsingarnar við hverja heimsókn, gefa sömu samþykki og til þess að lágmarka líkur á að notandi fái sama raddsýni oftar en einu sinni til hlustunar.
 
 Við notum ekki vafrakökur né vefgeymslu vafra til að safna upplýsingum er varða heimsóknir þínar á öðrum síðum, né að safna persónulegum upplýsingum um þig, aðrar en þær sem þú hefur skráð hjá okkur af frjálsum vilja í gegnum samskipti við okkar vefsíðu.
+
+## 3. Hvernig get ég stillt notkun vefsíðunnar á vafrakökum og vefgeymslu vafrans?
+Þegar vefsíðan* er heimsótt kemur upp gluggi sem leyfir þér að velja hvaða kökur eru leyfðar. Þeim stillingum er hægt að breyta hvenær sem er með því að smella á rauða borðann niðri í vinstra horni vefsíðunnar*.
+
+*Á ekki við um undirsíður fyrir Skilmálar, Persónuvernd og Vafrakökur. Vefurinn notar ekki vafrakökur né vefgeymslu vafra við heimsókn á þeim.
