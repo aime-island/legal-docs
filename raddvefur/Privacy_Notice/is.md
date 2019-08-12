@@ -93,4 +93,4 @@ Persónuverndaryfirlýsing Almannaróms er endurskoðuð reglulega og uppfærð 
 
 Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu Almannaróms.
 
- Þessi persónuverndaryfirlýsing var sett þann X.X.2019.
+ Þessi persónuverndaryfirlýsing var sett þann 01.08.2019.
