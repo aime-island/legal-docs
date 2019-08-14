@@ -37,7 +37,7 @@ Almannarómur safnar og vinnur persónuupplýsingar byggt á heimild í 5. tl. 1
 
 Máltækni miðar að því að þróa búnað sem getur unnið með og skilið tungumál og stuðlar að notkun þeirra í samskiptum manns og tölvu. Almannarómur stuðlar að aðgengi almennings að íslenskri málheild til að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
 
-Málheildin Samrómur er mikilvægt skref til að tryggja framtíð íslenskunnar og þar með menningu okkar. Nauðsynlegt er að tryggja að íslenskan standi jafnfætis öðrum tungumálum í síbreytilegum og hröðum tækniheimi og nýttir séu sem flestir möguleikar á hagnýtingu máltækni í nútíma samfélagi.
+Málheildin Almannarómur er mikilvægt skref til að tryggja framtíð íslenskunnar og þar með menningu okkar. Nauðsynlegt er að tryggja að íslenskan standi jafnfætis öðrum tungumálum í síbreytilegum og hröðum tækniheimi og nýttir séu sem flestir möguleikar á hagnýtingu máltækni í nútíma samfélagi.
 
 Til að greiða fyrir gerð fullkominnar málheildar er þátttakendum valkvætt að gefa upp upplýsingar um aldur, kyn og móðurmál. Þessar upplýsingar bæta gæði málheildarinnar og eru liður í því að tryggja að málheildin endurspegli sem flesta hópa samfélagsins.
 
