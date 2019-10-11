@@ -1,26 +1,37 @@
-# Skilmálar Almannaróms
+# Skilmálar vegna þátttöku í gerð Samróms
 
-Skilmálar tóku gildi 1.júlí 2019
+Skilmálar tóku gildi 1. október 2019
 
-Á vefsvæðinu Almannaromur.is getur þú tekið þátt í gerð málheildarinnar Almannarómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og eftir atvikum, lýðfræðilegum upplýsingum, yfirferðir og endurgjöf sem mun nýtast við gerð opins radd-gagnagrunns sem verður aðgengilegur á Almannaromur.is. Með gerð þessarar málheildar verður hægt að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna. Sem dæmi má nefna textaþýðingar í rauntíma og raddstýrð aðstoðartæki. Raddupptakan og upplýsingarnar verða einungis notaðar til þess að skapa þekkingu á þessu mikilvæga sviði.
+Á vefsvæðinu [www.samrómur.is](www.samromur.is) getur þú tekið þátt í gerð gagnasafnsins Samrómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og, eftir atvikum, lýðfræðilegum upplýsingum, yfirferðum og endurgjöf sem mun nýtast við gerð opins radd gagnasafn.
 
-## 1. Hæfni þátttakenda
-Þátttaka í gerð málheildarinnar Almannarómur er öllum opin. 
+Gagnasafnið verður aðgengilegur á [www.samrómur.is](www.samromur.is). Með gerð radd gagnasafnsins verður hægt að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
 
-## 2. Þitt framlag
-Þú getur tekið þátt á tvo vegu, annars vegar með því að lesa upp setningu og skila inn upptöku af röddinni þinni og hins vegar með því að yfirfara þau hljóðbrot sem hafa verið tekin upp. Það síðarnefnda felur í sér að hlusta á hljóðbrot sem aðrir hafa tekið upp og staðfesta að upptakan sé bæði skýr og að uppgefin setning passi við hljóðbrotið. Ef hljóðbrotið uppfyllir ekki skilyrðin skaltu hafna hljóðbrotinu.
-Málheildin Almannarómur verður aðgengileg með Creative Commons by attribution leyfi á Almannarómur.is. Sem þátttakandi samþykkir þú að öll þín framlög (raddupptaka, og eftir atvikum lýðfræðilegar upplýsingar, yfirferðir og endurgjöf) falli undir slíkt leyfi. Sömuleiðis staðfestir þú að framlag þitt sé þín eigin sköpun og að hún brjóti ekki gegn réttindum þriðja aðila. Ef þú getur ekki orðið við framangreindu er þér ekki heimilt að taka þátt í gerð málheildarinnar A.
-Með því að skrá inn lýðfræðilega upplýsingar um þig staðfestir þú að þær séu skráðar af heilindum og séu sannar. Ósannar og rangar upplýsingar geta haft neikvæð áhrif á gagnasöfnunina.
+## Þátttaka í gerð gagnasafnsins Samróms
+Allir geta tekið þátt í gerð gagnasafnsins Samrómur
 
-## 3. Samskipti
-Ef þú skráir þig á póstlista mun Almannarómur einstaka sinnum senda þér póst um framgang, vörður og annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
+Þú getur tekið þátt á tvo vegu, annars vegar með því að lesa upp setningu (“hljóðbrot”) og skila inn upptöku af röddinni þinni og hins vegar með því að yfirfara þau hljóðbrot sem hafa verið tekin upp. Það síðarnefnda felur í sér að hlusta á hljóðbrot sem aðrir þátttakendur hafa tekið upp og staðfesta að upptakan sé skýr og að uppgefin setning passi við hljóðbrotið. Ef hljóðbrotið uppfyllir ekki fyrrgreind skilyrðin þá skal hafna hljóðbrotinu.
 
-## 4. Fyrirvari
-Almannarómur ber ekki ábyrgð á hugsanlegu beinu eða óbeinu tjóni þátttakenda né þeirra aðila sem munu sækja málheildina og nýta hana í eigin tilgangi.
-Þú samþykkir að halda Almannaróm skaðlausum fyrir ábyrgð eða kröfu sem leiðir af þátttöku þinni í gerð málheildarinnar.
+Sem þátttakandi samþykkir þú að öll þín framlög (raddupptaka, og eftir atvikum lýðfræðilegar upplýsingar, yfirferðir og endurgjöf) falli undir [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/). 
 
-## 5. Brot á skilmálum
-Ef upp kemst um brot þátttakenda á þessum skilmálum áskilur Almannarómur sér rétt til þess að fjarlæga viðeigandi framlög úr málheildinni. Ef þú telur að á rétti þínum sé brotið innan Almannarómur.is biðjum við þig um að senda okkur póst á netfangið almannaromur@almannaromur.is
-Uppfærslur
+Valkvætt er að skrá inn lýðfræðilegar upplýsingar, þ.e. aldursbil, kyn og móðurmál. Með því að skrá inn lýðfræðilega upplýsingar um þig staðfestir þú að þær séu skráðar af heilindum og séu sannar. Ósannar og rangar upplýsingar geta haft neikvæð áhrif á gagnasöfnunina.
 
-Við áskiljum okkur rétt til að breyta þessum skilmálum og slíkar breytingar munu gerast strax og við breytum þessum texta. Við komum til með að birta gildisdag skilmálana hverju sinni efst á þessari síðu. 
+## Aðgengi að gagnasafninu 
+Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [www.samromur.is](www.samromur.is). 
+
+## Persónuvernd
+Með gagnasafninu Samróm felst að Háskólinn í Reykjavík vinni upplýsingar um þig sem í einhverjum tilvikum geta talist persónugreinanlegar. Í [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing)  kemur fram hvernig þeim upplýsingum er safnað, notkun og hvernig öryggi upplýsinganna sem þú veitir okkur er tryggt.
+
+## Samskipti
+Ef þú skráir þig á póstlista Samróms mun Háskólinn í Reykjavík einstaka sinnum senda þér póst um framgang verkefnisins, vörður og mögulega annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
+
+## Vafrakökur [e.cookies](https://samromur.is/is/vafrakokustefnae.cookies) 
+Vefsíðan okkar inniheldur vafrakökur. Kökur eru nokkurs konar fótspor sem eru dulkóðaðir textastrengir sem vefsíða geymir á tölvu notandans. Kökur gerir okkur kleift að lágmarka líkur að þátttakendum verði boðið að yfirfara sín eigin hljóðbrot. Að auki eru kökur notaðar til að mæla notkun á ýmsum síðum innan heimasíðunnar en það hjálpar okkur að meta hvað þarf að bæta á síðunni. Þær gerðir af kökum sem við notum eru “lotukökur” (e.session cookies) og “viðvarandi kökur” (e.persistent cookies). Lotukökur eru tímabundnar og er sjálfkrafa eytt þegar þú yfirgefur vefsíðuna okkar. Viðvarandi kökur eru áfram í tölvunni þinn þar til þú eyðir þeim. Við notum ekki kökur til að safna upplýsingum er varða heimsóknir þínar á öðrum síðum, né að safna persónulegum upplýsingum um þig, aðrar en þær sem þú hefur skráð hjá okkur af frjálsum vilja í gegnum samskipti við okkur á heimasíðu okkar.
+
+## Fyrirvari
+Háskólinn í Reykjavík er undanþeginn hvers kyns bótaábyrgð vegna notkunar gagnasafnsins sem er aðgengilegt öllum með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi.
+
+## Brot á skilmálum
+Ef upp kemst um brot þátttakenda á þessum skilmálum áskilur Almannarómur sér rétt til þess að fjarlægja framlög viðkomandi þátttakanda úr gagnasafninu. 
+
+## Annað
+Hægt er að hafa samband við okkur í gegnum netfangið samromur@hr.is. Skilmálar vegna þátttöku í gerð gagnasafnsins Samróms eru endurskoðaðir reglulega og kunna því að taka breytingum. 
