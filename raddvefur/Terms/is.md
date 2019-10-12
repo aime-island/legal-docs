@@ -19,7 +19,8 @@ Valkvætt er að skrá inn lýðfræðilegar upplýsingar, þ.e. aldursbil, kyn 
 Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [www.samromur.is](www.samromur.is). 
 
 ## Persónuvernd
-Með gagnasafninu Samróm felst að Háskólinn í Reykjavík vinni upplýsingar um þig sem í einhverjum tilvikum geta talist persónugreinanlegar. Í [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing)  kemur fram hvernig þeim upplýsingum er safnað, notkun og hvernig öryggi upplýsinganna sem þú veitir okkur er tryggt.
+Ef þú lætur í té framlag í formi raddsýnis og eftir atvikum lýðfræðilegra upplýsinga kunna þær
+upplýsingar í einhverjum tilvikum að vera persónugreinanlegar. Í  [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing) HR kemur fram hvernig HR nýtir persónugreinanlegar upplýsingar.
 
 ## Samskipti
 Ef þú skráir þig á póstlista Samróms mun Háskólinn í Reykjavík einstaka sinnum senda þér póst um framgang verkefnisins, vörður og mögulega annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
