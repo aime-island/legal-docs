@@ -2,9 +2,13 @@
 Með persónuverndaryfirlýsingu þessari er greint frá því hvernig Háskólinn í Reykjavík ehf., kt. 510105-4190, Menntavegur 1, 102 Reykjavík (hér eftir „HR", „stofnunin" eða „við" ), standa að vinnslu, s.s. söfnun, skráningu, vistun og miðlun persónugreinanlegra upplýsinga um einstaklinga (hér eftir einnig „ þú").
 
 Yfirlýsingin fjallar einkum um vinnslu persónuupplýsinga þegar einstaklingar:
+
 •	heimsækja heimasíðu okkar, [samrómur.is](www.samrómur.is).
+
 •	taka þátt í gerð gagnasafnsins Samrómur.
+
 •	skrá sig á póstlista okkar.
+
 HR vinnur persónuupplýsingar í samræmi við gildandi persónuverndarlöggjöf á Íslandi á hverjum tíma. Persónuverndaryfirlýsing þessi er byggð á lögum nr. 90/2018 um persónuvernd og vinnslu persónuupplýsinga („persónuverndarlög").
 
 # Persónuvernd er HR mikilvæg
