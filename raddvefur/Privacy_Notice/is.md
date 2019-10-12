@@ -2,7 +2,7 @@
 Með persónuverndaryfirlýsingu þessari er greint frá því hvernig Háskólinn í Reykjavík ehf., kt. 510105-4190, Menntavegur 1, 102 Reykjavík (hér eftir „HR", „stofnunin" eða „við" ), standa að vinnslu, s.s. söfnun, skráningu, vistun og miðlun persónugreinanlegra upplýsinga um einstaklinga (hér eftir einnig „ þú").
 
 Yfirlýsingin fjallar einkum um vinnslu persónuupplýsinga þegar einstaklingar:
-•	heimsækja heimasíðu okkar, [hlekkur] www.samrómur.is.
+•	heimsækja heimasíðu okkar, [samrómur.is](www.samrómur.is).
 •	taka þátt í gerð gagnasafnsins Samrómur.
 •	skrá sig á póstlista okkar.
 HR vinnur persónuupplýsingar í samræmi við gildandi persónuverndarlöggjöf á Íslandi á hverjum tíma. Persónuverndaryfirlýsing þessi er byggð á lögum nr. 90/2018 um persónuvernd og vinnslu persónuupplýsinga („persónuverndarlög").
@@ -13,13 +13,19 @@ HR vinnur persónuupplýsingar í samræmi við gildandi persónuverndarlöggjö
 # Hvaða persónuupplýsingum safnar HR um þig og hver er tilgangurinn með söfnuninni?
 HR leggur áherslu á að vinna einungis þær persónuupplýsingar sem nauðsynlegar eru í samræmi við þann tilgang sem liggur að baki söfnun upplýsinganna. HR vinnur persónuupplýsingar ekki frekar í óskyldum tilgangi nema einstaklingi sé tilkynnt um slíkt og þá heimild sem vinnslan byggist á.
 HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingum:
+
 •	raddupptökum
+
 •	lýðfræðilegum upplýsingum s.s. aldur, kyn og móðurmál.
+
 •	samskiptaupplýsingum, s.s. tölvupósti
+
 •	stafrænum fótsporum, s.s. nethegðun
+
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
+
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
-Þegar þú notar heimasíðuna okkar [hlekkur] www.samromur.is söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [hlekkur] Vafrakökustefna.
+Þegar þú notar heimasíðuna okkar [samrómur.is](www.samromur.is) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [samromur.is/is/vafrakokustefna](Vafrakökustefna).
 
 # Lagalegur grundvöllur fyrir vinnslu
 HR safnar og vinnur persónuupplýsingar byggt á heimild í 6. tl. 1. mgr. 9. gr. persónuverndarlaga, þ.e. vegna lögmætra hagsmuna stofnunarinnar. Eftir atvikum kann HR einnig að vinna persónuupplýsingar byggt á samþykki þínu, sbr. 1. tl.1. mgr. 9. gr. persónuverndarlaga, s.s. ef þú skráir þig á póstlista okkar.
@@ -41,7 +47,7 @@ Við söfnum persónuupplýsingum aðeins frá þér.
 # Hvenær miðlar HR persónuupplýsingum þínum til þriðju aðila og af hverju?
 HR selur ekki undir neinum kringumstæðum persónuupplýsingar um þig. Samrómur er opið gagnasafn og hver sem er getur sótt raddupptökuna og lýðfræðilegu upplýsingarnar. Mögulegt er því að miðlun persónuupplýsinga geti átt sér stað enda er tilgangurinn með söfnun upplýsinganna að stuðla að aðgengi almennings að gagnasafni með íslenskum röddum til að hægt sé að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
 
-HR miðlar einungis persónuupplýsingum til þriðju aðila sem sækja sérstaklega raddgagnasafnið á heimasíðu [hlekkur]Samróms. Mögulegt er að þriðju aðilar sem sækja gagnasafnið vinni gögnin í öðrum tilgangi. Persónuverndaryfirlýsing HR nær ekki til upplýsinga eða vinnslu þriðju aðila en við höfum enga stjórn á né berum ábyrgð á notkun, birtingu eða öðrum verkum þeirra.
+HR miðlar einungis persónuupplýsingum til þriðju aðila sem sækja sérstaklega raddgagnasafnið á heimasíðu [Samróms](www.samromur.is). Mögulegt er að þriðju aðilar sem sækja gagnasafnið vinni gögnin í öðrum tilgangi. Persónuverndaryfirlýsing HR nær ekki til upplýsinga eða vinnslu þriðju aðila en við höfum enga stjórn á né berum ábyrgð á notkun, birtingu eða öðrum verkum þeirra.
 
 Að lokum gætu persónuupplýsingar um þig verið afhentar að því marki sem nauðsynlegt er til að uppfylla bindandi lagafyrirmæli.
 
@@ -60,7 +66,7 @@ Með fyrirvara um þau skilyrði sem nánar er fjallað um í gildandi löggjöf
 
 Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@hr.is. Við munum staðfesta móttöku á beiðninni og að jafnaði bregðast við beiðnum innan mánaðar frá móttöku. Verði ekki unnt að bregðast við innan mánaðar munum við tilkynna þér um töf á afgreiðslu innan mánaðar. Ekki er innheimt gjald þegar einstaklingar nýta rétt sinn í samræmi við ofangreint.
 
-Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [hlekkur] www.personuvernd.is.
+Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [www.personuvernd.is]Persónuvernd.
 
 # Frekari upplýsingar
 Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við skrifstofu Almannaróms.
