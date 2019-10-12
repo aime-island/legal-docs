@@ -75,7 +75,7 @@ Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, s
 
 # Yfirferð og endurskoðun persónuverndaryfirlýsingar HR
 Persónuverndaryfirlýsing HR er endurskoðuð reglulega og uppfærð ef tilefni er til.
-Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu Samróms.
+Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu [www.samromur.is](Samróms).
 
 Þessi persónuverndaryfirlýsing var sett þann 01.09.2019.
 
