@@ -3,7 +3,7 @@ Með persónuverndaryfirlýsingu þessari er greint frá því hvernig Háskóli
 
 Yfirlýsingin fjallar einkum um vinnslu persónuupplýsinga þegar einstaklingar:
 
-•	heimsækja heimasíðu okkar, [samrómur.is](www.samrómur.is).
+•	heimsækja heimasíðu okkar, [samrómur.is](https://samromur.is/).
 
 •	taka þátt í gerð gagnasafnsins Samrómur.
 
@@ -29,7 +29,7 @@ HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingu
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
-Þegar þú notar heimasíðuna okkar [samrómur.is](www.samrómur.is) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), www.samrómur.is/vafrakokustefna.
+Þegar þú notar heimasíðuna okkar [samrómur.is](https://samromur.is/) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), www.samrómur.is/vafrakokustefna.
 
 # Lagalegur grundvöllur fyrir vinnslu
 HR safnar og vinnur persónuupplýsingar byggt á heimild í 6. tl. 1. mgr. 9. gr. persónuverndarlaga, þ.e. vegna lögmætra hagsmuna stofnunarinnar. Eftir atvikum kann HR einnig að vinna persónuupplýsingar byggt á samþykki þínu, sbr. 1. tl.1. mgr. 9. gr. persónuverndarlaga, s.s. ef þú skráir þig á póstlista okkar.
@@ -70,7 +70,7 @@ Með fyrirvara um þau skilyrði sem nánar er fjallað um í gildandi löggjöf
 
 Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@hr.is. Við munum staðfesta móttöku á beiðninni og að jafnaði bregðast við beiðnum innan mánaðar frá móttöku. Verði ekki unnt að bregðast við innan mánaðar munum við tilkynna þér um töf á afgreiðslu innan mánaðar. Ekki er innheimt gjald þegar einstaklingar nýta rétt sinn í samræmi við ofangreint.
 
-Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [personuvernd.is](www.personuvernd.is/).
+Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [personuvernd.is](https://www.personuvernd.is/).
 
 # Frekari upplýsingar
 Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við skrifstofu Almannaróms.
