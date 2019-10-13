@@ -29,7 +29,7 @@ HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingu
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
-Þegar þú notar heimasíðuna okkar [samrómur.is](https://samromur.is/) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [https://samrómur.is/vafrakökustefna](https://www.samrómur.is/vafrakokustefna).
+Þegar þú notar heimasíðuna okkar [samrómur.is](https://samromur.is/) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [samrómur.is/vafrakökustefna](https://www.samromur.is/vafrakokustefna).
 
 # Lagalegur grundvöllur fyrir vinnslu
 HR safnar og vinnur persónuupplýsingar byggt á heimild í 6. tl. 1. mgr. 9. gr. persónuverndarlaga, þ.e. vegna lögmætra hagsmuna stofnunarinnar. Eftir atvikum kann HR einnig að vinna persónuupplýsingar byggt á samþykki þínu, sbr. 1. tl.1. mgr. 9. gr. persónuverndarlaga, s.s. ef þú skráir þig á póstlista okkar.
