@@ -2,9 +2,9 @@
 
 Skilmálar tóku gildi 1. október 2019
 
-Á vefsvæðinu [www.samrómur.is](www.samromur.is) getur þú tekið þátt í gerð gagnasafnsins Samrómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og, eftir atvikum, lýðfræðilegum upplýsingum, yfirferðum og endurgjöf sem mun nýtast við gerð opins radd gagnasafn.
+Á vefsvæðinu [samrómur.is](https://www.samromur.is) getur þú tekið þátt í gerð gagnasafnsins Samrómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og, eftir atvikum, lýðfræðilegum upplýsingum, yfirferðum og endurgjöf sem mun nýtast við gerð opins radd gagnasafn.
 
-Gagnasafnið verður aðgengilegur á [www.samrómur.is](www.samromur.is). Með gerð radd gagnasafnsins verður hægt að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
+Gagnasafnið verður aðgengilegur á [samrómur.is](https://www.samromur.is). Með gerð radd gagnasafnsins verður hægt að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
 
 ## Þátttaka í gerð gagnasafnsins Samróms
 Allir geta tekið þátt í gerð gagnasafnsins Samrómur
