@@ -70,7 +70,7 @@ Með fyrirvara um þau skilyrði sem nánar er fjallað um í gildandi löggjöf
 
 Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@hr.is. Við munum staðfesta móttöku á beiðninni og að jafnaði bregðast við beiðnum innan mánaðar frá móttöku. Verði ekki unnt að bregðast við innan mánaðar munum við tilkynna þér um töf á afgreiðslu innan mánaðar. Ekki er innheimt gjald þegar einstaklingar nýta rétt sinn í samræmi við ofangreint.
 
-Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [www.personuvernd.is](Persónuvernd).
+Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, www.personuvernd.is/.
 
 # Frekari upplýsingar
 Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við skrifstofu Almannaróms.
