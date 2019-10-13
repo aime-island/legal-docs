@@ -16,7 +16,7 @@ Sem þátttakandi samþykkir þú að öll þín framlög (raddupptaka, og eftir
 Valkvætt er að skrá inn lýðfræðilegar upplýsingar, þ.e. aldursbil, kyn og móðurmál. Með því að skrá inn lýðfræðilega upplýsingar um þig staðfestir þú að þær séu skráðar af heilindum og séu sannar. Ósannar og rangar upplýsingar geta haft neikvæð áhrif á gagnasöfnunina.
 
 ## Aðgengi að gagnasafninu 
-Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [www.samromur.is](www.samromur.is). 
+Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [samromur.is](https://www.samromur.is). 
 
 ## Persónuvernd
 Ef þú lætur í té framlag í formi raddsýnis og eftir atvikum lýðfræðilegra upplýsinga kunna þær
