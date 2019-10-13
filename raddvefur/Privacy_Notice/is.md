@@ -3,7 +3,7 @@ Með persónuverndaryfirlýsingu þessari er greint frá því hvernig Háskóli
 
 Yfirlýsingin fjallar einkum um vinnslu persónuupplýsinga þegar einstaklingar:
 
-•	heimsækja heimasíðu okkar, [samrómur.is](www.samrómur.is).
+•	heimsækja heimasíðu okkar, [samrómur.is](https://www.samrómur.is).
 
 •	taka þátt í gerð gagnasafnsins Samrómur.
 
