@@ -3,7 +3,7 @@ Með persónuverndaryfirlýsingu þessari er greint frá því hvernig Háskóli
 
 Yfirlýsingin fjallar einkum um vinnslu persónuupplýsinga þegar einstaklingar:
 
-•	heimsækja heimasíðu okkar, [www.samrómur.is] samromur.is.
+•	heimsækja heimasíðu okkar, www.samrómur.is.
 
 •	taka þátt í gerð gagnasafnsins Samrómur.
 
@@ -29,7 +29,7 @@ HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingu
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
-Þegar þú notar heimasíðuna okkar www.samrómur.is söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [www.samrómur.is/is/vafrakokustefna](Vafrakökustefna).
+Þegar þú notar heimasíðuna okkar www.samrómur.is söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), www.samrómur.is/is/vafrakokustefna.
 
 # Lagalegur grundvöllur fyrir vinnslu
 HR safnar og vinnur persónuupplýsingar byggt á heimild í 6. tl. 1. mgr. 9. gr. persónuverndarlaga, þ.e. vegna lögmætra hagsmuna stofnunarinnar. Eftir atvikum kann HR einnig að vinna persónuupplýsingar byggt á samþykki þínu, sbr. 1. tl.1. mgr. 9. gr. persónuverndarlaga, s.s. ef þú skráir þig á póstlista okkar.
@@ -51,7 +51,7 @@ Við söfnum persónuupplýsingum aðeins frá þér.
 # Hvenær miðlar HR persónuupplýsingum þínum til þriðju aðila og af hverju?
 HR selur ekki undir neinum kringumstæðum persónuupplýsingar um þig. Samrómur er opið gagnasafn og hver sem er getur sótt raddupptökuna og lýðfræðilegu upplýsingarnar. Mögulegt er því að miðlun persónuupplýsinga geti átt sér stað enda er tilgangurinn með söfnun upplýsinganna að stuðla að aðgengi almennings að gagnasafni með íslenskum röddum til að hægt sé að styðja við og efla aðila sem vinna að þróun íslenskra máltæknilausna.
 
-HR miðlar einungis persónuupplýsingum til þriðju aðila sem sækja sérstaklega raddgagnasafnið á heimasíðu [Samróms](www.samromur.is). Mögulegt er að þriðju aðilar sem sækja gagnasafnið vinni gögnin í öðrum tilgangi. Persónuverndaryfirlýsing HR nær ekki til upplýsinga eða vinnslu þriðju aðila en við höfum enga stjórn á né berum ábyrgð á notkun, birtingu eða öðrum verkum þeirra.
+HR miðlar einungis persónuupplýsingum til þriðju aðila sem sækja sérstaklega raddgagnasafnið á heimasíðu [Samróms](www.samrómur.is). Mögulegt er að þriðju aðilar sem sækja gagnasafnið vinni gögnin í öðrum tilgangi. Persónuverndaryfirlýsing HR nær ekki til upplýsinga eða vinnslu þriðju aðila en við höfum enga stjórn á né berum ábyrgð á notkun, birtingu eða öðrum verkum þeirra.
 
 Að lokum gætu persónuupplýsingar um þig verið afhentar að því marki sem nauðsynlegt er til að uppfylla bindandi lagafyrirmæli.
 
@@ -79,7 +79,7 @@ Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, s
 
 # Yfirferð og endurskoðun persónuverndaryfirlýsingar HR
 Persónuverndaryfirlýsing HR er endurskoðuð reglulega og uppfærð ef tilefni er til.
-Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu [www.samromur.is](Samróms).
+Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu [Samróms](www.samrómur.is).
 
 Þessi persónuverndaryfirlýsing var sett þann 01.09.2019.
 
