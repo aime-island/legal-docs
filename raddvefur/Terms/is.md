@@ -25,7 +25,7 @@ upplýsingar í einhverjum tilvikum að vera persónugreinanlegar. Í  [persónu
 ## Samskipti
 Ef þú skráir þig á póstlista Samróms mun Háskólinn í Reykjavík einstaka sinnum senda þér póst um framgang verkefnisins, vörður og mögulega annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
 
-## Vafrakökur [e.cookies](https://samromur.is/is/vafrakokustefnae.cookies) 
+## Vafrakökur e.cookies
 Vefsíðan okkar inniheldur vafrakökur. Kökur eru nokkurs konar fótspor sem eru dulkóðaðir textastrengir sem vefsíða geymir á tölvu notandans. Kökur gerir okkur kleift að lágmarka líkur að þátttakendum verði boðið að yfirfara sín eigin hljóðbrot. Að auki eru kökur notaðar til að mæla notkun á ýmsum síðum innan heimasíðunnar en það hjálpar okkur að meta hvað þarf að bæta á síðunni. Þær gerðir af kökum sem við notum eru “lotukökur” (e.session cookies) og “viðvarandi kökur” (e.persistent cookies). Lotukökur eru tímabundnar og er sjálfkrafa eytt þegar þú yfirgefur vefsíðuna okkar. Viðvarandi kökur eru áfram í tölvunni þinn þar til þú eyðir þeim. Við notum ekki kökur til að safna upplýsingum er varða heimsóknir þínar á öðrum síðum, né að safna persónulegum upplýsingum um þig, aðrar en þær sem þú hefur skráð hjá okkur af frjálsum vilja í gegnum samskipti við okkur á heimasíðu okkar.
 
 ## Fyrirvari
