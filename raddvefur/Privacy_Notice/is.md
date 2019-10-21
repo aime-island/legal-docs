@@ -29,7 +29,7 @@ HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingu
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
-Þegar þú notar heimasíðuna okkar [samrómur.is](https://samromur.is/) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Almannaróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [samrómur.is/vafrakökustefna](https://www.samromur.is/vafrakokustefna).
+Þegar þú notar heimasíðuna okkar [samrómur.is](https://samromur.is/) söfnum við upplýsingum um notkun þína, þ.e. IP tölu, tegund eða útgáfu vafra sem þú notar, tímasetningu og tímalengd heimsóknar og hvaða undirsíður þú heimsækir innan heimasíðu Samróms. Hér má finna nánari upplýsingar um notkun okkar á vafrakökum (e. cookies), [samrómur.is/vafrakökustefna](https://www.samromur.is/vafrakokustefna).
 
 # Lagalegur grundvöllur fyrir vinnslu
 HR safnar og vinnur persónuupplýsingar byggt á heimild í 6. tl. 1. mgr. 9. gr. persónuverndarlaga, þ.e. vegna lögmætra hagsmuna stofnunarinnar. Eftir atvikum kann HR einnig að vinna persónuupplýsingar byggt á samþykki þínu, sbr. 1. tl.1. mgr. 9. gr. persónuverndarlaga, s.s. ef þú skráir þig á póstlista okkar.
@@ -73,7 +73,7 @@ Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@h
 Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [personuvernd.is](https://www.personuvernd.is/).
 
 # Frekari upplýsingar
-Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við skrifstofu Almannaróms.
+Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við máltæknisetur HR.
 
 Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, samromur@ru.is.
 
