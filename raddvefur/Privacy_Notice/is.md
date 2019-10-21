@@ -80,7 +80,7 @@ Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@h
 Þú hefur einnig rétt til að leggja fram kvörtun hjá Persónuvernd sjáir þú ástæðu til þess. Upplýsingar um persónuvernd má finna á heimasíðu þeirra, [personuvernd.is](https://www.personuvernd.is/).
 
 # Frekari upplýsingar
-Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við máltæknisetur HR.
+Ef þú vilt fá frekari upplýsingar um málefni sem snúa að þínum persónuupplýsingum þá bendum við þér á að hafa samband við Máltæknisetur HR.
 
 Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, samromur@ru.is.
 
@@ -88,5 +88,5 @@ Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, s
 Persónuverndaryfirlýsing HR er endurskoðuð reglulega og uppfærð ef tilefni er til.
 Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu [Samróms](https://samromur.is/).
 
-Þessi persónuverndaryfirlýsing var sett þann 01.09.2019.
+Þessi persónuverndaryfirlýsing var sett þann 21.10.2019.
 
