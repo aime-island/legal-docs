@@ -59,13 +59,20 @@ Að lokum gætu persónuupplýsingar um þig verið afhentar að því marki sem
 Öryggi í vinnslu persónuupplýsinga er HR mikilvægt og höfum við gripið til viðeigandi tæknilegra og skipulagslegra öryggisráðstafana til að tryggja vernd persónuupplýsinga þinna. Þessum ráðstöfunum er ætlað að vernda persónuupplýsingar gegn því að þær glatist eða breytist fyrir slysni og gegn óleyfilegum aðgangi, afritun, notkun eða miðlun þeirra. Komi upp öryggisbrot er varðar þínar persónuupplýsingar munum við bregðast við í samræmi við persónuverndarlög.
 
 # Réttindi þín
-Með fyrirvara um þau skilyrði sem nánar er fjallað um í gildandi löggjöf um persónuvernd, þá átt þú rétt á að:
+Með fyrirvara um þau skilyrði sem nánar er fjallað um í gildandi löggjöf um persónuvernd, þá átt þú rétt á að
+
 •	fá upplýsingar um hvaða persónuupplýsingar stofnunin hefur skráð um þig og uppruna þeirra, sem og upplýsingar um hvernig unnið er með persónuupplýsingar um þig,
+
 •	fá aðgang að þeim persónuupplýsingum sem eru unnar um þig, eða óska eftir að þær séu sendar til þriðja aðila,
+
 •	persónuupplýsingar þínar séu uppfærðar og leiðréttar ef tilefni er til,
+
 •	HR eyði persónuupplýsingum þínum ef ekki er málefnaleg eða lagaleg heimild til að varðveita þær,
+
 •	afturkalla samþykki þitt til vinnslu persónuupplýsinga, ef vinnsla byggir á slíku samþykki,
+
 •	koma á framfæri andmælum ef þú vilt takmarka eða koma í veg fyrir að persónuupplýsingar þínar séu unnar,
+
 •	fá upplýsingar um það hvort fram fari sjálfvirk ákvarðanataka, á hvaða rökum slík ákvarðanataka er byggð og endurskoðun á sjálfvirkri ákvarðanatöku.
 
 Viljir þú nýta rétt þinn getur þú sent skriflega fyrirspurn á samromur@hr.is. Við munum staðfesta móttöku á beiðninni og að jafnaði bregðast við beiðnum innan mánaðar frá móttöku. Verði ekki unnt að bregðast við innan mánaðar munum við tilkynna þér um töf á afgreiðslu innan mánaðar. Ekki er innheimt gjald þegar einstaklingar nýta rétt sinn í samræmi við ofangreint.
