@@ -1,6 +1,6 @@
 # Skilmálar vegna þátttöku í gerð Samróms
 
-Skilmálar tóku gildi 1. október 2019
+Skilmálar tóku gildi 25. október 2019
 
 Á vefsvæðinu [samrómur.is](https://www.samromur.is) getur þú tekið þátt í gerð gagnasafnsins Samrómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og, eftir atvikum, lýðfræðilegum upplýsingum, yfirferðum og endurgjöf sem mun nýtast við gerð opins radd gagnasafn.
 
@@ -32,7 +32,7 @@ Vefsíðan okkar inniheldur vafrakökur. Kökur eru nokkurs konar fótspor sem e
 Háskólinn í Reykjavík er undanþeginn hvers kyns bótaábyrgð vegna notkunar gagnasafnsins sem er aðgengilegt öllum með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi.
 
 ## Brot á skilmálum
-Ef upp kemst um brot þátttakenda á þessum skilmálum áskilur Almannarómur sér rétt til þess að fjarlægja framlög viðkomandi þátttakanda úr gagnasafninu. 
+Ef upp kemst um brot þátttakenda á þessum skilmálum áskilur HR sér rétt til þess að fjarlægja framlög viðkomandi þátttakanda úr gagnasafninu. 
 
 ## Annað
 Hægt er að hafa samband við okkur í gegnum netfangið samromur@hr.is. Skilmálar vegna þátttöku í gerð gagnasafnsins Samróms eru endurskoðaðir reglulega og kunna því að taka breytingum. 
