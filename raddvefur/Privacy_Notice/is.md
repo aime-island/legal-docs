@@ -26,6 +26,8 @@ HR safnar, eins og við á hverju sinni, einkum eftirfarandi persónuupplýsingu
 
 •	stafrænum fótsporum, s.s. nethegðun
 
+• upplýsingar tengdar samþykkis forsjáraðila fyrir barn s.s. kennitala barns og netfang forsjáraðila
+
 HR vinnur persónuupplýsingar einkum í þeim tilgangi að:
 
 •	búa til íslenskt raddgagnasafn sem verður hægt að nota til að styðja við og efla aðila sem vinna að þróun máltæknilausna.
@@ -88,5 +90,5 @@ Háskólinn í Reykjavík ehf. Menntavegur 1, 102 Reykjavík, sími: 599 6200, s
 Persónuverndaryfirlýsing HR er endurskoðuð reglulega og uppfærð ef tilefni er til.
 Allar breytingar sem kunna að verða gerðar taka gildi eftir að uppfærð útgáfa hefur verið birt á heimasíðu [Samróms](https://samromur.is/).
 
-Þessi persónuverndaryfirlýsing var sett þann 21.10.2019.
+Þessi persónuverndaryfirlýsing var uppfærð þann 30.04.2020.
 
