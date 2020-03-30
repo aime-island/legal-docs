@@ -1,6 +1,6 @@
 # Skilmálar vegna þátttöku í gerð Samróms
 
-Skilmálar tóku gildi 25. október 2019
+Skilmálar voru uppfærðir 30. mars 2020
 
 Á vefsvæðinu [samrómur.is](https://www.samromur.is) getur þú tekið þátt í gerð gagnasafnsins Samrómur. Í þátttöku þinni felst að þú skilar inn eigin raddupptöku og, eftir atvikum, lýðfræðilegum upplýsingum, yfirferðum og endurgjöf sem mun nýtast við gerð opins radd gagnasafn.
 
@@ -14,6 +14,8 @@ Allir geta tekið þátt í gerð gagnasafnsins Samrómur
 Sem þátttakandi samþykkir þú að öll þín framlög (raddupptaka, og eftir atvikum lýðfræðilegar upplýsingar, yfirferðir og endurgjöf) falli undir [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/). 
 
 Valkvætt er að skrá inn lýðfræðilegar upplýsingar, þ.e. aldursbil, kyn og móðurmál. Með því að skrá inn lýðfræðilega upplýsingar um þig staðfestir þú að þær séu skráðar af heilindum og séu sannar. Ósannar og rangar upplýsingar geta haft neikvæð áhrif á gagnasöfnunina.
+
+Til þess að ólögráða einstaklingar geti tekið þátt þarf leyfi forsjáraðili. Í því skyni kann að vera kennitölu barns og netfang forsjáraðila sé geymd tímabundið. Þessar upplýsingar eru einungis geymdar til þessa að uppfylla ákvæði persónuverndaryfirlýsingar og undir engum kringumstæðum verða þær upplýsingar gefnar út með gagnasafninu líkt og lýðfræðiupplýsingar. 
 
 ## Aðgengi að gagnasafninu 
 Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [samrómur.is](https://www.samromur.is). 
