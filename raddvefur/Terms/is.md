@@ -23,7 +23,7 @@ Til þess að ólögráða einstaklingar geti tekið þátt þarf leyfi forsjár
 Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [samrómur.is](https://www.samromur.is). 
 
 ## Persónuvernd
-Ef þú lætur í té framlag í formi raddsýnis og eftir atvikum lýðfræðilegar upplýsingar kunna upplýsingarnar í einhverjum tilvikum að vera persónugreinanlegar.  Í  [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing) HR kemur fram hvernig HR nýtir persónugreinanlegar upplýsingar.
+Ef þú lætur í té framlag í formi raddsýnis og eftir atvikum lýðfræðilegar upplýsingar kunna upplýsingarnar í einhverjum tilvikum að vera persónugreinanlegar. Í [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing) (HR) kemur fram hvernig HR nýtir persónugreinanlegar upplýsingar.
 
 ## Samskipti
 Ef þú skráir þig á póstlista Samróms mun Háskólinn í Reykjavík einstaka sinnum senda þér póst um framgang verkefnisins, vörður og mögulega annað efni tengt verkefninu. Þér er gefinn kostur á að skrá þig úr áskrift póstlistans í öllum bréfum sem send eru í tölvupósti.
