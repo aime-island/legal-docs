@@ -18,7 +18,7 @@ Til þess að ólögráða einstaklingar geti tekið þátt þarf leyfi forsjár
 Þátttakendur geta valið að gefa upp upplýsingar sem segja til um undir hvaða formerkjum þeir taka þátt, s.s. nafn skóla, stofnunar eða fyrirtækis. Þessar upplýsingar eru einungis notaðar til að halda utan um þátttöku hjá hópum og kunna að vera birtar á vef síðunnar. Upplýsingarnar verða hvorki gefnar út með gagnasafninu né geymdar lengur en þörf krefur. 
 
 ## Aðgengi að gagnasafni
-Gagnasafnið verður aðgengilegt í heild sinni með [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/) leyfi á [samrómur.is](https://www.samromur.is). 
+Samrómur verður gefið út með opnu leyfi sem kallast [Creative Commons by attribution](https://creativecommons.org/licenses/by/4.0/). Þær veitur sem munu bjóða upp á niðurhal gagnasafnsins verða tilgreindar á vef Samróms.
 
 ## Persónuvernd
 Ef þú lætur í té framlag í formi raddsýnis og eftir atvikum lýðfræðilegar upplýsingar kunna upplýsingarnar í einhverjum tilvikum að vera persónugreinanlegar. Í [persónuverndaryfirlýsingu Háskólans í Reykjavík](https://samromur.is/is/personuverndaryfirlysing) (HR) kemur fram hvernig HR nýtir persónugreinanlegar upplýsingar.
